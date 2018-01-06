@@ -1,4 +1,4 @@
-CryptoNote-Easy-Miner
+VluCash-Easy-Miner
 ===
 
 This is a simple C# app that helps Windows users start mining without dealing with command-line operated binaries. It is bundled with the latest 32 & 64 bit builds of simpleminer and simplewallet.
@@ -12,4 +12,4 @@ The app will spawn instances of simpleminer for each core with the approperiate 
 
 ####Download
 
-Get the latest build here: [releases](//github.com/zone117x/cryptonote-easy-miner/releases)
+Get the latest build here: [releases](//github.com/VluCash/cryptonote-easy-miner)
